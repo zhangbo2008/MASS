@@ -1,3 +1,13 @@
+还是微软牛逼.
+我理解是先利用bert来建立预训练模型.
+然后用这个模型来建立编码器和解码器.
+然后再进入transform调用编码解码来finetune.
+
+先看这个神经翻译.
+https://www.jianshu.com/p/f2054ac9da3c
+
+
+
 # MASS
 <!---
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/mass-masked-sequence-to-sequence-pre-training/unsupervised-machine-translation-on-wmt2014-2)](https://paperswithcode.com/sota/unsupervised-machine-translation-on-wmt2014-2?p=mass-masked-sequence-to-sequence-pre-training)
